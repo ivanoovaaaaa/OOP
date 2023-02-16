@@ -1,0 +1,7 @@
+D:\3 sem\OOP\git_oop\OOP\Laba 2\Laba 2\obj\Debug\Laba 2.csproj.AssemblyReference.cache
+D:\3 sem\OOP\git_oop\OOP\Laba 2\Laba 2\obj\Debug\Laba 2.csproj.CoreCompileInputs.cache
+D:\3 sem\OOP\git_oop\OOP\Laba 2\Laba 2\bin\Debug\Laba 2.exe.config
+D:\3 sem\OOP\git_oop\OOP\Laba 2\Laba 2\bin\Debug\Laba 2.exe
+D:\3 sem\OOP\git_oop\OOP\Laba 2\Laba 2\bin\Debug\Laba 2.pdb
+D:\3 sem\OOP\git_oop\OOP\Laba 2\Laba 2\obj\Debug\Laba 2.exe
+D:\3 sem\OOP\git_oop\OOP\Laba 2\Laba 2\obj\Debug\Laba 2.pdb
