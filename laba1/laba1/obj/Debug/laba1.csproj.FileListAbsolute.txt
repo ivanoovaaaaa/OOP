@@ -1,0 +1,7 @@
+D:\3 sem\OOP\git_oop\OOP\laba1\laba1\bin\Debug\laba1.exe.config
+D:\3 sem\OOP\git_oop\OOP\laba1\laba1\bin\Debug\laba1.exe
+D:\3 sem\OOP\git_oop\OOP\laba1\laba1\bin\Debug\laba1.pdb
+D:\3 sem\OOP\git_oop\OOP\laba1\laba1\obj\Debug\laba1.csproj.AssemblyReference.cache
+D:\3 sem\OOP\git_oop\OOP\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+D:\3 sem\OOP\git_oop\OOP\laba1\laba1\obj\Debug\laba1.exe
+D:\3 sem\OOP\git_oop\OOP\laba1\laba1\obj\Debug\laba1.pdb
